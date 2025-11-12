@@ -42,13 +42,13 @@ public class NumberInsanity {
                     result = "Divisible by 5 and 7!";
                 }
                 else if (div5) {
-                    result = "Divisible by 5";
+                    result = "Divisible by 5!";
                 }
                 else if (div7)
                     result = "Divisible by 7!";
                 }
             else {
-                result = "Not divisible by 5 or 7";
+                result = "Not divisible by 5 or 7!";
             }
             }
         }
